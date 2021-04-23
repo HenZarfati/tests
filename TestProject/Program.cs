@@ -12,7 +12,7 @@ namespace TestProject
         {
             StratTest stratTest = new StratTest();
             stratTest.DoSomething();
-            //adding commen;
+            //adding commentttt;
         }
     }
 }
