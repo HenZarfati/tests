@@ -10,8 +10,6 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            StratTest stratTest = new StratTest();
-            stratTest.DoSomething();
             //adding commentttt;
         }
     }
